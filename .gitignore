@@ -1,0 +1,7 @@
+# Never publish local sessions or generated logs.
+.codex/
+sessions/
+*.jsonl
+*.log
+*.zip
+TestResults/
